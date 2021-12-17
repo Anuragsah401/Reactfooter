@@ -25,6 +25,7 @@
 
 .logoAndLinks {
   display: flex;
+  height: 200px;
   background-color: #012120;
   padding: 0 4rem;
   gap: 15%;
@@ -67,6 +68,7 @@
   .logoAndLinks {
     display: block;
     padding: 3rem;
+    height: auto;
   }
 
   .brandLogo {
@@ -78,5 +80,6 @@
   .logoAndLinks {
     display: block;
     padding: 1rem;
+    height: auto;
   }
 }
